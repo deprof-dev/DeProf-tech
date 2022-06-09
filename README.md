@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeProf-tech
-- 👀 I’m interested in JavaScript; NodeJs, TypeScript, ReactJs and ionic-related works. I build websites too and will always look forward to collaborations.
+- 👀 Reach out to me on my handles for collaborations on my stack - Frontend & Backend; specifically Node JS
 - 📫 How to reach me on phone/WhatsApp: 07065792002, email: @abdulrahmanabdulsalam93@gmail.com
 
 <!---
