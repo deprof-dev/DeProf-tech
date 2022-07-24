@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeProf-tech
-- 👀 Reach out to me on my handles for collaborations on my stack - Frontend & Backend; specifically Node JS
+- 👀 Reach out to me on my handles for collaborations on my stack - Frontend & Backend
 - 📫 email me: @abdulrahmanabdulsalam93@gmail.com
 
 <!---
