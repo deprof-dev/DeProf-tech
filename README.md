@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DeProf-tech
-- 👀 Reach out to me on my handles for collaborations on my stack - Frontend & Backend
+- 👋 Hi, I’m AbdulSalam AbdulRahman; an ever-evolving and serial advocate of technology and software advancement with software itself. 
+- 👀 Reach out to me for collaborations involving any of MERN or layout stylings and technologies like Bootstrap and Tailwind
 - 📫 email me: @abdulrahmanabdulsalam93@gmail.com
 
 <!---
